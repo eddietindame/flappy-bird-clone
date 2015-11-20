@@ -1,5 +1,5 @@
 # flappy-bird-clone
-Interactive project built in Processing [URL](https://processing.org/).
+Interactive project built in [Processing](https://processing.org/).
 
 Graphically appealing Flappy Bird clone which can be played with the mouse or using an Arduino board attached with ultra sonic sensor.
 
