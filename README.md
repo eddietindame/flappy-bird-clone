@@ -8,3 +8,8 @@ Not an example of well written (by my standards) or modular code but was more of
 The interactivity was fun to implement - although clicking the mouse is more accurate than waving your hand.
 
 This (among other assignments) got me 100% in my Creativity in Interactive and Tangible Media module :-)
+
+All graphics assets created by me.
+```
+Video footage of the game can be seen [here](http://sendvid.com/tt9q6l27).
+```
