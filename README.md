@@ -11,5 +11,5 @@ This (among other assignments) got me 100% in my Creativity in Interactive and T
 
 All graphics assets created by me.
 
-Video footage of the game can be seen [here](http://sendvid.com/tt9q6l27).
+Video footage of the game can be seen [here](http://sendvid.com/mqqlgt5h).
 
